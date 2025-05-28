@@ -3,7 +3,7 @@
     margin: 0px;
     padding: 0px;
     color: white;
-    font-family: Bugatti Display,ui-sans-serif,system-ui,sans-serif,"Apple Color Emoji","Segoe UI Emoji",Segoe UI Symbol,"Noto Color Emoji";
+    font-family: Arial, sans-serif;
 }
 
 #titlecard{
@@ -27,7 +27,12 @@
 }
 #byline{
     background-color: black;
+    text-align: center;
 }
 #question-container{
     background-color: black;
+    padding-top: 2vw;
+}
+.question{
+    padding: 2vw;
 }
